@@ -53,6 +53,12 @@ Free Telegram bot that turns Markdown (or a `.md` file) into Telegram **Rich Mar
 > [!NOTE]
 > The bot does **not** need to be an administrator or member of any channel or group. It works in **private chats** only.
 
+## Support the project
+
+If the project was useful, consider starring the repository.
+It helps other developers discover it and makes the project easier
+to find again later.
+
 ## Quick Start
 
 1. Install dependencies:
